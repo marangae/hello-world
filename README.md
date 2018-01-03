@@ -1,2 +1,7 @@
 # hello-world
-just a small description
+
+Hello everyone,
+
+this is me showing off insanely awesome hello-world skills :-)
+
+That's all folks!
